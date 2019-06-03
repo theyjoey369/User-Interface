@@ -114,6 +114,7 @@ button {
 }
 .bottom-Previews {
 	border-bottom: 1px solid black;
+	padding: 15px;
 }
 article {
 	display: inline-block;
