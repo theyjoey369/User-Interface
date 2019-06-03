@@ -109,6 +109,13 @@ button {
 	height: 30px;
 	margin-top: 0;
 }
+.top-Previews {
+	border-top: 1px solid black;
+}
+.bottom-Previews {
+	border-bottom: 1px solid black;
+	padding: 15px;
+}
 article {
 	display: inline-block;
 	height: 50px;
