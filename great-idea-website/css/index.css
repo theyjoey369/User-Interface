@@ -64,3 +64,80 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+margin: 0 auto;
+width: fit-content;
+}
+.head {
+	height: 20px;
+	margin-bottom: 40px;
+}
+.topMenu a {
+	text-decoration: none;
+	color: lightgray;
+	margin: 20px;
+	padding: 10px;
+}
+.logo {
+	padding-top: 20px;
+}
+.slogan-left {
+	font-size: 75px;
+	text-align: center;
+	display: inline-block;
+	width: 450px;
+	margin-bottom: 0;
+}
+.slogan-right {
+	display: inline-block;	
+	width: fit-content;
+}
+.slogan-photo {
+	height: 370px;
+	width: 370px;
+}
+.slogan {
+	display: inline-block;
+	width: 100%;
+	padding: 20px;
+}
+button {
+	display: inline-block;
+	background-color: white;
+	padding-left: 30px;
+	padding-right: 30px;
+	height: 30px;
+	margin-top: 0;
+}
+.top-Previews {
+	border-top: 1px solid black;
+}
+.bottom-Previews {
+	border-bottom: 1px solid black;
+	padding: 15px;
+}
+article {
+	display: inline-block;
+	height: 50px;
+	width: 460px;
+	line-height: 1.4;
+	padding: 10px;
+}	
+.photoBreak {
+	margin: 15px;
+}
+.bottom-Previews article {
+	padding: 10px;
+	width: 300px;
+}
+address {
+	margin-top: 20px;
+	display: inline-block;
+	line-height: 1.2;
+}
+.street p {
+	line-height: 1;
+}
+#cite {
+	text-align: center;
+}
